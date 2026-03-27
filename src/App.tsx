@@ -366,7 +366,9 @@ export default function App() {
               <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl"> referrerPolicy="no-referrer" />
                 </div>
                 <div className="space-y-6 max-w-lg">
-                  <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profile.png"
+                  <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
+                  <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profile.png" referrerPolicy="no-referrer" />
+                </div>
                   <h4 className="text-3xl font-notoSerif font-bold">왜 이나윤의 코칭인가 <span className="text-xl opacity-60 ml-2">메타로마인드 대표</span></h4>
                   <p className="text-base opacity-80 leading-relaxed">
                     현 오프라인 타로 아카데미 고문마스터 및 강사로 활동하며,
