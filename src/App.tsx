@@ -363,13 +363,21 @@ export default function App() {
             </div>
             <div className="flex flex-col items-center max-w-4xl mx-auto">
               <div className="flex flex-col md:flex-row gap-12 items-center text-center md:text-left">
-                <div className="w-full md:w-80 h-96 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
+              <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
                   <img alt="Master Instructor" className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCmibScqkSxWVj-9TLxDIE_lPD2ALoFO-1J-SPSVCkLpTdDVixoyEnbRp_rreSBlkhxutUTL0TWPVTkPT48XVeZUprh_9mCNLr4m0ymFO-GyMQqkRFOTPEnRUFELD4DZmMrb4SOQMfHh8U6X0WWjmiFT9zKdOZEyHlr12gwyI-LUgl6lCG42tjKdc6uEj1WNk5WU4geXbckt6z1NFLTAkhnOOq-ASo2czr3y4oh8VGruQc680YmRfT2Zr0cxKIZul8FDttus7xnF9s" referrerPolicy="no-referrer" />
                 </div>
                 <div className="space-y-6 max-w-lg">
-                  <h4 className="text-3xl font-notoSerif font-bold">Dr. 범우성 <span className="text-xl opacity-60 ml-2">대표 마스터</span></h4>
+                  <h4 className="text-3xl font-notoSerif font-bold">왜 이나윤의 코칭인가 <span className="text-xl opacity-60 ml-2">메타로마인드 대표</span></h4>
                   <p className="text-base opacity-80 leading-relaxed">
-                    전략 컨설팅 15년 경력과 심리학 박사 학위를 결합하여 '건축적 타로 코칭' 시스템을 정립하였습니다.
+                    현 오프라인 타로 아카데미 고문마스터 및 강사로 활동하며,
+교육기획·운영 17년의 경험을 바탕으로
+대학, 기업, 공공기관 강의와 상담,
+온·오프라인 코칭을 꾸준히 이어오고 있습니다.
+타로를 단순한 카드 해석이 아니라
+사람의 심리와 관계의 흐름을 읽는 도구로 활용해왔고,
+기본 이론은 배웠지만 실제 상담과 리딩에서 막히는 분들이
+자기만의 해석 기준과 상담 언어를 세울 수 있도록
+돕는 데 강점을 가지고 있습니다.
                   </p>
                   <ul className="text-sm space-y-3 opacity-70">
                     <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> Architectural Insight 설립자</li>
