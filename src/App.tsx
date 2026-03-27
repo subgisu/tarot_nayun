@@ -145,12 +145,14 @@ export default function App() {
                   Brand Philosophy
                 </h2>
                 <h3 className="text-4xl md:text-5xl font-notoSerif font-black text-on-surface leading-tight break-keep">
-                  특별한 시작, 상징을 통해 세상을 재조립하다
+                카드 뜻을 더 배우는 것에서 멈추지 않고
+내 상담 방식과 리딩 기준을 세우고 싶다면,
                 </h3>
                 <p className="text-on-surface-variant text-lg leading-relaxed">
-                  우리는 타로의 78가지 상징을 운명이 아닌 '심리적 건축 자재'로
-                  정의합니다. Architectural Insight는 상담자가 피상담자의 삶을
-                  견고하게 다시 세울 수 있도록 돕는 지혜의 도구를 전수합니다.
+              메타로마인드는
+기본 이론 이후에 막히는 분들이
+실제 상담과 리딩으로 연결될 수 있도록
+현실적인 기준과 방향을 함께 정리합니다.
                 </p>
                 <ul className="space-y-6">
                   <li className="flex items-start gap-4">
