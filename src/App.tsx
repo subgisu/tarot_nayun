@@ -380,9 +380,9 @@ export default function App() {
 돕는 데 강점을 가지고 있습니다.
                   </p>
                   <ul className="text-sm space-y-3 opacity-70">
-                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> Architectural Insight 설립자</li>
-                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 한국 코칭 심리학회 정회원</li>
-                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 비즈니스 전략 인사이트 저자</li>
+                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 오프라인 타로 아카데미 고문마스터 및 강사</li>
+                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 타로 아카데미 고문마스터 및 강사</li>
+                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 타로 아카데미 고문마스터 및 강사</li>
                   </ul>
                 </div>
               </div>
