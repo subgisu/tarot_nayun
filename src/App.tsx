@@ -30,32 +30,6 @@ export default function App() {
               Architectural Insight
             </h1>
           </div>
-          <nav className="hidden md:flex items-center gap-8">
-            <a
-              className="text-[#173124] dark:text-[#ffffff] font-semibold border-b-2 border-[#173124] transition-colors"
-              href="#"
-            >
-              홈
-            </a>
-            <a
-              className="text-[#173124]/60 dark:text-[#f4f4f0]/60 hover:text-[#173124] transition-colors"
-              href="#"
-            >
-              교육과정
-            </a>
-            <a
-              className="text-[#173124]/60 dark:text-[#f4f4f0]/60 hover:text-[#173124] transition-colors"
-              href="#"
-            >
-              강사진
-            </a>
-            <a
-              className="text-[#173124]/60 dark:text-[#f4f4f0]/60 hover:text-[#173124] transition-colors"
-              href="#"
-            >
-              수강후기
-            </a>
-          </nav>
           <button className="bg-primary text-on-primary px-5 py-2 rounded-md font-medium text-sm transition-transform active:scale-95">
             상담 신청하기
           </button>
