@@ -274,6 +274,63 @@ export default function App() {
             </div>
           </div>
         </section>
+{/* Section 5.5: How it works */}
+        <section className="py-32 bg-surface-container-low">
+          <div className="max-w-7xl mx-auto px-6">
+            <div className="text-center mb-20">
+              <h2 className="font-notoSerif text-4xl font-black text-primary mb-6">이렇게 진행됩니다</h2>
+              <p className="text-on-surface-variant text-lg max-w-2xl mx-auto leading-relaxed">
+                듣고 끝나는 수업이 아니라 직접 해보고 바로 교정받는 실전형 코칭입니다.
+              </p>
+            </div>
+            
+            <div className="grid md:grid-cols-2 gap-8">
+              {/* Column 1: Odd steps */}
+              <div className="space-y-8">
+                {/* Step 1 */}
+                <div className="bg-surface-container-lowest p-10 rounded-2xl shadow-xl shadow-primary/5 relative overflow-hidden group">
+                  <span className="text-8xl font-notoSerif font-black text-surface-variant absolute -top-4 -right-2 transition-transform group-hover:scale-110">01</span>
+                  <h4 className="text-2xl font-bold text-primary mb-4 relative z-10">신청서 작성</h4>
+                  <p className="text-on-surface-variant leading-relaxed relative z-10">신청하기 버튼을 누르면<br/>구글 폼 신청서로 연결됩니다.</p>
+                </div>
+                {/* Step 3 */}
+                <div className="bg-surface-container-lowest p-10 rounded-2xl shadow-xl shadow-primary/5 relative overflow-hidden group">
+                  <span className="text-8xl font-notoSerif font-black text-surface-variant absolute -top-4 -right-2 transition-transform group-hover:scale-110">03</span>
+                  <h4 className="text-2xl font-bold text-primary mb-4 relative z-10">결제 확인 후 자료 제공</h4>
+                  <p className="text-on-surface-variant leading-relaxed relative z-10">안내에 따라 결제가 확인되면<br/>사전 워크북과 필요한 자료를 전달드립니다.</p>
+                </div>
+                {/* Step 5 */}
+                <div className="bg-surface-container-lowest p-10 rounded-2xl shadow-xl shadow-primary/5 relative overflow-hidden group">
+                  <span className="text-8xl font-notoSerif font-black text-surface-variant absolute -top-4 -right-2 transition-transform group-hover:scale-110">05</span>
+                  <h4 className="text-2xl font-bold text-primary mb-4 relative z-10">전화 통화로 직접 리딩 진행</h4>
+                  <p className="text-on-surface-variant leading-relaxed relative z-10">작성한 내용을 바탕으로<br/>실제 리딩을 직접 진행합니다.</p>
+                </div>
+              </div>
+
+              {/* Column 2: Even steps (Staggered) */}
+              <div className="space-y-8 md:mt-10">
+                {/* Step 2 */}
+                <div className="bg-surface-container-lowest p-10 rounded-2xl shadow-xl shadow-primary/5 relative overflow-hidden group">
+                  <span className="text-8xl font-notoSerif font-black text-surface-variant absolute -top-4 -right-2 transition-transform group-hover:scale-110">02</span>
+                  <h4 className="text-2xl font-bold text-primary mb-4 relative z-10">신청 내용 확인 후 개별 안내</h4>
+                  <p className="text-on-surface-variant leading-relaxed relative z-10">신청 내용을 확인한 뒤<br/>진행 방식과 일정을 개별 안내해드립니다.</p>
+                </div>
+                {/* Step 4 */}
+                <div className="bg-surface-container-lowest p-10 rounded-2xl shadow-xl shadow-primary/5 relative overflow-hidden group">
+                  <span className="text-8xl font-notoSerif font-black text-surface-variant absolute -top-4 -right-2 transition-transform group-hover:scale-110">04</span>
+                  <h4 className="text-2xl font-bold text-primary mb-4 relative z-10">워크북 작성</h4>
+                  <p className="text-on-surface-variant leading-relaxed relative z-10">내 상담 스타일, 리딩 흐름, 해석 기준을<br/>먼저 정리합니다.</p>
+                </div>
+                {/* Step 6 */}
+                <div className="bg-surface-container-lowest p-10 rounded-2xl shadow-xl shadow-primary/5 relative overflow-hidden group">
+                  <span className="text-8xl font-notoSerif font-black text-surface-variant absolute -top-4 -right-2 transition-transform group-hover:scale-110">06</span>
+                  <h4 className="text-2xl font-bold text-primary mb-4 relative z-10">실시간 피드백</h4>
+                  <p className="text-on-surface-variant leading-relaxed relative z-10">리딩하는 흐름을 들으면서<br/>해석 방식, 질문 수용, 상담 언어, 전달 방식까지<br/>바로 피드백해드립니다.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
         {/* Section 6: Student Reviews */}
         <section className="py-32 bg-background overflow-hidden">
