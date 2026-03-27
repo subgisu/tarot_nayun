@@ -358,61 +358,25 @@ export default function App() {
         <section className="py-32 bg-primary-container text-on-primary-container">
           <div className="max-w-7xl mx-auto px-6">
             <div className="mb-20">
-              <h2 className="text-sm font-bold tracking-[0.3em] uppercase opacity-70 mb-2">
-                Masters of Insight
-              </h2>
-              <h3 className="text-4xl font-notoSerif font-black">
-                교육 전문가 그룹
-              </h3>
+              <div className="mb-20 text-center flex flex-col items-center">
+              <h2 className="text-sm font-bold tracking-[0.3em] uppercase opacity-70 mb-2">Masters of Insight</h2>
+              <h3 className="text-4xl font-notoSerif font-black">교육 전문가 그룹</h3>
             </div>
-            <div className="grid md:grid-cols-2 gap-16">
-              <div className="flex flex-col md:flex-row gap-8 items-start">
-                <div className="w-full md:w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0">
-                  <img
-                    alt="Master Instructor"
-                    className="w-full h-full object-cover"
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuCmibScqkSxWVj-9TLxDIE_lPD2ALoFO-1J-SPSVCkLpTdDVixoyEnbRp_rreSBlkhxutUTL0TWPVTkPT48XVeZUprh_9mCNLr4m0ymFO-GyMQqkRFOTPEnRUFELD4DZmMrb4SOQMfHh8U6X0WWjmiFT9zKdOZEyHlr12gwyI-LUgl6lCG42tjKdc6uEj1WNk5WU4geXbckt6z1NFLTAkhnOOq-ASo2czr3y4oh8VGruQc680YmRfT2Zr0cxKIZul8FDttus7xnF9s"
-                    referrerPolicy="no-referrer"
-                  />
+            <div className="flex flex-col items-center max-w-4xl mx-auto">
+              <div className="flex flex-col md:flex-row gap-12 items-center text-center md:text-left">
+                <div className="w-full md:w-80 h-96 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
+                  <img alt="Master Instructor" className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCmibScqkSxWVj-9TLxDIE_lPD2ALoFO-1J-SPSVCkLpTdDVixoyEnbRp_rreSBlkhxutUTL0TWPVTkPT48XVeZUprh_9mCNLr4m0ymFO-GyMQqkRFOTPEnRUFELD4DZmMrb4SOQMfHh8U6X0WWjmiFT9zKdOZEyHlr12gwyI-LUgl6lCG42tjKdc6uEj1WNk5WU4geXbckt6z1NFLTAkhnOOq-ASo2czr3y4oh8VGruQc680YmRfT2Zr0cxKIZul8FDttus7xnF9s" referrerPolicy="no-referrer" />
                 </div>
-                <div className="space-y-4">
-                  <h4 className="text-2xl font-notoSerif font-bold">
-                    Dr. 정우성{" "}
-                    <span className="text-lg opacity-60 ml-2">대표 마스터</span>
-                  </h4>
-                  <p className="text-sm opacity-80 leading-relaxed">
-                    전략 컨설팅 15년 경력과 심리학 박사 학위를 결합하여 '건축적
-                    타로 코칭' 시스템을 정립하였습니다.
+                <div className="space-y-6 max-w-lg">
+                  <h4 className="text-3xl font-notoSerif font-bold">Dr. 범우성 <span className="text-xl opacity-60 ml-2">대표 마스터</span></h4>
+                  <p className="text-base opacity-80 leading-relaxed">
+                    전략 컨설팅 15년 경력과 심리학 박사 학위를 결합하여 '건축적 타로 코칭' 시스템을 정립하였습니다.
                   </p>
-                  <ul className="text-xs space-y-2 opacity-70">
-                    <li>• Architectural Insight 설립자</li>
-                    <li>• 한국 코칭 심리학회 정회원</li>
-                    <li>• 비즈니스 전략 인사이트 저자</li>
-                  </ul>
-                </div>
-              </div>
-              <div className="flex flex-col md:flex-row gap-8 items-start">
-                <div className="w-full md:w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0">
-                  <img
-                    alt="Master Instructor"
-                    className="w-full h-full object-cover"
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuDDmQzjAHvy_djg-Fl94jP6A5Zx-3IyqtGIvnJBQJA8INBSvMVSxsvDiHpAjW3AFJK_GOu81D5ejpx3H6wBjv11mVl2STBVamYyULGkOmdhD3Te8aOgoyIOmRKgWKoxdV2z6vByeGBwkL6RytjYUctMd9W3xPOHcQooRchmsvbJMlQ9IBB7PRNZE1l9GLIRRKCEPUlcAercNJcPM8uZbfn5vxegOmA8hhkxx9mcudRIs_syVOABopovE0gKytSnr3_V0V0T5EeS8zI"
-                    referrerPolicy="no-referrer"
-                  />
-                </div>
-                <div className="space-y-4">
-                  <h4 className="text-2xl font-notoSerif font-bold">
-                    한소희 <span className="text-lg opacity-60 ml-2">수석 강사</span>
-                  </h4>
-                  <p className="text-sm opacity-80 leading-relaxed">
-                    수많은 기업가들의 멘탈 코칭을 담당하며, 실전 상담에서 바로
-                    적용 가능한 메커니즘을 교육합니다.
-                  </p>
-                  <ul className="text-xs space-y-2 opacity-70">
-                    <li>• 기업체 임원 대상 전담 코치</li>
-                    <li>• 상담 심리 전문가 1급</li>
-                    <li>• 메이저 교육 플랫폼 최고 평점 강사</li>
-                  </ul>
+                  <ul className="text-sm space-y-3 opacity-70">
+                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> Architectural Insight 설립자</li>
+                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 한국 코칭 심리학회 정회원</li>
+                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 비즈니스 전략 인사이트 저자</li>
+                </ul>
                 </div>
               </div>
             </div>
