@@ -131,7 +131,8 @@ export default function App() {
               <div className="md:w-1/2 relative">
                 <div className="relative z-10 w-full h-[600px] rounded-full overflow-hidden border-8 border-surface-container">
                   <img
-                    alt="modern office"/tarot_nayun/images/img_tarot.png"
+                   alt="modern office"
+                      src="/tarot_nayun/images/img_tarot.png"
                     referrerPolicy="no-referrer"
                   />
                 </div>
