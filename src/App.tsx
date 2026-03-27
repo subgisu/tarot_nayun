@@ -30,7 +30,7 @@ export default function App() {
               Architectural Insight
             </h1>
           </div>
-          <button className="bg-primary text-on-primary px-5 py-2 rounded-md font-medium text-sm transition-transform active:scale-95">
+        <button className="bg-primary text-white px-5 py-2 rounded-md font-medium text-sm transition-transform active:scale-95">
             상담 신청하기
           </button>
         </div>
