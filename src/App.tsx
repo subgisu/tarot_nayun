@@ -363,10 +363,10 @@ export default function App() {
             </div>
             <div className="flex flex-col items-center max-w-4xl mx-auto">
               <div className="flex flex-col md:flex-row gap-12 items-center text-center md:text-left">
-              <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
-                  <img alt="Master Instructor" className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCmibScqkSxWVj-9TLxDIE_lPD2ALoFO-1J-SPSVCkLpTdDVixoyEnbRp_rreSBlkhxutUTL0TWPVTkPT48XVeZUprh_9mCNLr4m0ymFO-GyMQqkRFOTPEnRUFELD4DZmMrb4SOQMfHh8U6X0WWjmiFT9zKdOZEyHlr12gwyI-LUgl6lCG42tjKdc6uEj1WNk5WU4geXbckt6z1NFLTAkhnOOq-ASo2czr3y4oh8VGruQc680YmRfT2Zr0cxKIZul8FDttus7xnF9s" referrerPolicy="no-referrer" />
+              <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl"> referrerPolicy="no-referrer" />
                 </div>
                 <div className="space-y-6 max-w-lg">
+                  <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profile.png"
                   <h4 className="text-3xl font-notoSerif font-bold">왜 이나윤의 코칭인가 <span className="text-xl opacity-60 ml-2">메타로마인드 대표</span></h4>
                   <p className="text-base opacity-80 leading-relaxed">
                     현 오프라인 타로 아카데미 고문마스터 및 강사로 활동하며,
