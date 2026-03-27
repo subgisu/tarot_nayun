@@ -74,8 +74,8 @@ export default function App() {
                   referrerPolicy="no-referrer"
                 />
               </div>
-              <div className="absolute -bottom-10 -left-10 w-64 h-64 bg-secondary-container rounded-2xl p-8 flex flex-col justify-end shadow-xl">
-                <span className="text-4xl font-notoSerif font-bold text-on-secondary-container italic">
+            <div className="absolute -bottom-10 -left-10 w-64 h-64 bg-[#E8E0F0] rounded-2xl p-8 flex flex-col justify-end shadow-xl">
+                <span className="text-4xl font-notoSerif font-bold text-[#5B4A6E] italic">
                   Insight.
                 </span>
                 <p className="text-sm text-on-secondary-container/80 mt-2">
