@@ -131,9 +131,7 @@ export default function App() {
               <div className="md:w-1/2 relative">
                 <div className="relative z-10 w-full h-[600px] rounded-full overflow-hidden border-8 border-surface-container">
                   <img
-                    alt="modern office"
-                    className="w-full h-full object-cover"
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuDi3pybtMDcbXhaDRG3mnNgaahd3rslhU4CWwrMenNCvgGXEmCiu4TOBOkHcocu-CyFZqDYfbIoC5TsX-ffonsoOefnukgrSHjRZXz5hOZASd2viaLwdhJmPZkklMTSSKTx57rD1Pa3UoBPJPQklB2hP4tjDOaxEd99L1Sd1KQ4hAMY_oIjCZmE3g8E6KCoWVaDMsrnDGMwo3ZxSFGzjgALDY7VhLoEWkd1WTGtNkviwzZ00pIR130YmrxZxPzNCNI2X-B2N3xu3vc"
+                    alt="modern office"/tarot_nayun/images/img_tarot.png"
                     referrerPolicy="no-referrer"
                   />
                 </div>
