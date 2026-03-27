@@ -95,7 +95,7 @@ export default function App() {
               <img
                 alt="professional discussion"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuCZcXvhmE3YriN1YdIhFNxq6Xetxg6vCQPS4RTO3_R2C7VFpnyXUCnBImEQV_J1zBLGyaSFzHOYzeEHnDPwkNHtdfH7Lni31kV0megW5JiT6QI3pl5i4EupUQ0d20Y232YbNdtVinyr56-SDR5jB7ITrHZZBmVxt4YAGmKKrMdvsg7QKbdNv-vHyMzu-SlzPbkkKsfogQCRo1olG8nD6YcK3gQggOgz93nPzQoto3cpI4Ag6Xv0KXdp_oDIZCCEhL3DAU6jEwyi6eo"
+                src=" /tarot_nayun/images/img_counsel.jpg"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent"></div>
