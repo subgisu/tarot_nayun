@@ -101,10 +101,10 @@ export default function App() {
               <div className="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent"></div>
               <div className="absolute bottom-10 left-10 text-on-primary">
                 <h3 className="text-3xl font-notoSerif font-bold">
-                  깊이 있는 공감, 논리적인 분석
+                 왜 배웠는데도 리딩은 막힐까요?
                 </h3>
                 <p className="opacity-70 mt-2">
-                  당신의 이야기를 듣고, 함께 길을 디자인합니다.
+                 카드 의미를 아는 것과 실제 상담에서 자연스럽게 리딩하는 것은 다릅니다.
                 </p>
               </div>
             </div>
