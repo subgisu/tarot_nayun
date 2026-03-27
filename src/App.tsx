@@ -264,7 +264,7 @@ export default function App() {
               </div>
               <div className="text-center p-8 border-r border-outline-variant last:border-0">
                 <div className="text-4xl font-notoSerif font-black text-primary mb-2">
-                  12년
+                  17년
                 </div>
                 <p className="text-sm text-on-surface-variant font-medium">
                   교육 노하우
