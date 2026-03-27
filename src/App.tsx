@@ -52,9 +52,9 @@ export default function App() {
                 <span className="text-primary/70">심리 디자인</span>입니다
               </h2>
               <p className="font-manrope text-lg text-on-surface-variant max-w-lg leading-relaxed">
-                막연한 미래를 점치는 도구가 아닙니다. 당신의 내면을 체계적으로
-                구조화하고, 삶의 해답을 스스로 도출하는 논리적 인사이트 코칭을
-                시작하세요.
+            카드 뜻은 아는데 리딩이 막힌다면
+            기본 이론은 배웠지만 실제 상담에 들어가면 자꾸 흔들리는 분들을 위한
+            1:1 실전 타로 코칭
               </p>
               <div className="flex gap-4 pt-4">
                 <button className="bg-primary text-on-primary px-8 py-4 rounded-md font-bold text-lg hover:bg-primary-container transition-colors shadow-lg shadow-primary/10">
