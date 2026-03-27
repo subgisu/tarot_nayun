@@ -79,7 +79,7 @@ export default function App() {
                   Insight.
                 </span>
                 <p className="text-sm text-on-secondary-container/80 mt-2">
-                  데이터로 읽는 타로의 질서: AI와 구조적 사고의 결합
+                  데이터로 읽는 타로의 질서: <br /> AI와 구조적 사고의 결합
                 </p>
               </div>
             </div>
