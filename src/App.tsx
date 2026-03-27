@@ -57,11 +57,11 @@ export default function App() {
             1:1 실전 타로 코칭
               </p>
               <div className="flex gap-4 pt-4">
-                <button className="bg-primary text-on-primary px-8 py-4 rounded-md font-bold text-lg hover:bg-primary-container transition-colors shadow-lg shadow-primary/10">
-                  코스 둘러보기
+              <button className="bg-primary px-5 py-2 rounded-md font-medium text-sm transition-transform active:scale-95" style={{ color: '#ffffff' }}>
+                 신청서 작성하기
                 </button>
                 <button className="border-b border-outline text-primary px-4 py-4 font-bold flex items-center gap-2 hover:gap-4 transition-all">
-                  상담 예약 <ArrowRight className="w-5 h-5" />
+                  1:1 문의하기 <ArrowRight className="w-5 h-5" />
                 </button>
               </div>
             </div>
