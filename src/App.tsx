@@ -714,14 +714,6 @@ export default function App() {
             </div>
           </div>
         </div>
-        <div className="max-w-7xl mx-auto border-t border-[#ffffff]/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-[#f4f4f0]/40 text-xs font-manrope">
-            © 2024 Architectural Insight Tarot Coaching. All rights reserved.
-          </p>
-          <p className="text-[#f4f4f0]/40 text-xs font-manrope">
-            서울특별시 강남구 테헤란로 123 인사이트 타워 18층
-          </p>
-        </div>
       </footer>
     </div>
   );
