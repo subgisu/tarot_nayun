@@ -672,7 +672,7 @@ export default function App() {
               </div>
               <button
                 type="button"
-                className="w-full bg-primary text-on-primary py-5 rounded-md text-xl font-bold shadow-2xl shadow-primary/20 hover:bg-primary-container transition-all active:scale-[0.98]"
+                className="w-full bg-primary py-5 rounded-md text-xl font-bold shadow-2xl shadow-primary/20 hover:bg-primary-container transition-all active:scale-[0.98]"
               >
                 무료 상담 신청 완료
               </button>
