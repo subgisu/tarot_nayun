@@ -56,8 +56,8 @@ export default function App() {
             기본 이론은 배웠지만 실제 상담에 들어가면 자꾸 흔들리는 분들을 위한
             <span className="relative inline-block">
               <span className="relative z-10 font-bold text-primary">1:1 실전 타로 코칭</span>
-              <svg className="absolute -inset-x-3 -inset-y-2 w-[calc(100%+24px)] h-[calc(100%+16px)] z-0" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <ellipse cx="100" cy="25" rx="95" ry="22" stroke="#c75a2a" strokeWidth="2" strokeLinecap="round" style={{strokeDasharray: '4 6', opacity: 0.7}} transform="rotate(-2 100 25)" />
+             <svg className="absolute -inset-x-4 -inset-y-3 w-[calc(100%+32px)] h-[calc(100%+24px)] z-0" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M30 35C35 15, 80 8, 130 10C180 12, 210 20, 205 32C200 44, 160 52, 110 50C60 48, 20 45, 25 35C28 28, 70 18, 120 16C170 14, 200 22, 195 30" stroke="#7B5EA7" strokeWidth="2.5" strokeLinecap="round" fill="none" style={{opacity: 0.65}} />
               </svg>
             </span>
               </p>
