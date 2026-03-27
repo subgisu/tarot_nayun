@@ -217,7 +217,7 @@ export default function App() {
                   체계적 시스템
                 </h3>
                 <p className="opacity-80 leading-relaxed">
-                  기초 이론부터 실전 상담 시뮬레이션까지, 검증된 12단계 학습
+                  기초 이론부터 실전 상담 시뮬레이션까지, <br />검증된 12단계 학습
                   로드맵을 제공합니다.
                 </p>
               </div>
