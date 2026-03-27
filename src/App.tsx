@@ -427,7 +427,7 @@ export default function App() {
             <div className="flex flex-col items-center max-w-4xl mx-auto">
               <div className="flex flex-col md:flex-row gap-12 items-center text-center md:text-left">
                 <div className="w-90 h-110 rounded-xl overflow-hidden shrink-0 shadow-2xl">
-                  <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profile.png" />
+                  <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profilephoto.png" />
                 </div>
                 <div className="space-y-6 max-w-lg">
                   <h4 className="text-3xl font-notoSerif font-bold">왜 이나윤의 코칭인가 <span className="text-xl opacity-60 ml-2">메타로마인드 대표</span></h4>
