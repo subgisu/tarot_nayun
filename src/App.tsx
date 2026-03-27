@@ -114,8 +114,8 @@ export default function App() {
                 비즈니스 수준의 전문 상담 역량
               </h3>
               <p className="leading-relaxed opacity-80">
-                개인적인 상담을 넘어, 조직과 경영을 이해하는 인사이트 타로 코칭은
-                오직 Architectural Insight에서만 가능합니다.
+                메타로마인드 실전 타로 코칭은 막연하게 배워온 리딩을 정리해
+                실제 상담에서 바로 쓰이는 나만의 방식으로 연결하도록 돕습니다.
               </p>
             </div>
           </div>
