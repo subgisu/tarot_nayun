@@ -602,74 +602,7 @@ export default function App() {
         </section>
 
         {/* Section 10: Contact Form */}
-        <section className="py-32 bg-background">
-          <div className="max-w-4xl mx-auto px-6 bg-surface-container-lowest p-12 md:p-20 rounded-3xl shadow-xl shadow-primary/5">
-            <div className="text-center mb-16">
-              <h2 className="font-notoSerif text-4xl font-black text-primary mb-4">
-                상담 신청하기
-              </h2>
-              <p className="text-on-surface-variant">
-                당신의 비전을 현실로 만드는 첫걸음을 함께합니다
-              </p>
-            </div>
-            <form className="space-y-8">
-              <div className="grid md:grid-cols-2 gap-8">
-                <div className="space-y-2">
-                  <label className="text-sm font-bold text-on-surface-variant">
-                    성함
-                  </label>
-                  <input
-                    className="w-full bg-transparent border-0 border-b border-outline/30 focus:ring-0 focus:border-primary px-0 py-3 text-lg transition-all outline-none"
-                    placeholder="홍길동"
-                    type="text"
-                  />
-                </div>
-                <div className="space-y-2">
-                  <label className="text-sm font-bold text-on-surface-variant">
-                    연락처
-                  </label>
-                  <input
-                    className="w-full bg-transparent border-0 border-b border-outline/30 focus:ring-0 focus:border-primary px-0 py-3 text-lg transition-all outline-none"
-                    placeholder="010-0000-0000"
-                    type="tel"
-                  />
-                </div>
-              </div>
-              <div className="space-y-2">
-                <label className="text-sm font-bold text-on-surface-variant">
-                  관심 과정
-                </label>
-                <select className="w-full bg-transparent border-0 border-b border-outline/30 focus:ring-0 focus:border-primary px-0 py-3 text-lg transition-all outline-none appearance-none">
-                  <option>선택해주세요</option>
-                  <option>Basic Course</option>
-                  <option>Advanced Course</option>
-                  <option>Professional Course</option>
-                  <option>1:1 Private Mentoring</option>
-                </select>
-              </div>
-              <div className="space-y-2">
-                <label className="text-sm font-bold text-on-surface-variant">
-                  문의 내용 (선택)
-                </label>
-                <textarea
-                  className="w-full bg-transparent border-0 border-b border-outline/30 focus:ring-0 focus:border-primary px-0 py-3 text-lg transition-all resize-none outline-none"
-                  placeholder="궁금한 사항을 남겨주세요."
-                  rows={3}
-                ></textarea>
-              </div>
-              <div className="flex items-center gap-3 py-4">
-                <input
-                  className="rounded-sm border-outline text-primary focus:ring-primary"
-                  id="privacy"
-                  type="checkbox"
-                />
-                <label
-                  className="text-sm text-on-surface-variant"
-                  htmlFor="privacy"
-                >
-                  개인정보처리방침에 동의합니다.
-                </label>
-              </div>
+                      </div>
               <button
                 type="button"
                 className="w-full bg-primary py-5 rounded-md text-xl font-bold shadow-2xl shadow-primary/20 hover:bg-primary-container transition-all active:scale-[0.98]"
