@@ -137,7 +137,7 @@ export default function App() {
                   />
                 </div>
                 <div className="absolute -top-10 -right-10 w-40 h-40 bg-secondary rounded-full flex items-center justify-center text-on-secondary font-notoSerif text-xl z-20">
-                  Since 2012
+                실제 상담형 리딩
                 </div>
               </div>
               <div className="md:w-1/2 space-y-8">
