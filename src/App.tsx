@@ -51,10 +51,15 @@ export default function App() {
                 <br />
                 <span className="text-primary/70">심리 디자인</span>입니다
               </h2>
-              <p className="font-manrope text-lg text-on-surface-variant max-w-lg leading-relaxed">
+           <p className="font-manrope text-lg text-on-surface-variant max-w-lg leading-relaxed">
             카드 뜻은 아는데 리딩이 막힌다면
             기본 이론은 배웠지만 실제 상담에 들어가면 자꾸 흔들리는 분들을 위한
-            1:1 실전 타로 코칭
+            <span className="relative inline-block">
+              <span className="relative z-10 font-bold text-primary">1:1 실전 타로 코칭</span>
+              <svg className="absolute -inset-x-3 -inset-y-2 w-[calc(100%+24px)] h-[calc(100%+16px)] z-0" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <ellipse cx="100" cy="25" rx="95" ry="22" stroke="#c75a2a" strokeWidth="2" strokeLinecap="round" style={{strokeDasharray: '4 6', opacity: 0.7}} transform="rotate(-2 100 25)" />
+              </svg>
+            </span>
               </p>
               <div className="flex gap-4 pt-4">
               <button className="bg-primary px-5 py-2 rounded-md font-medium text-sm transition-transform active:scale-95" style={{ color: '#ffffff' }}>
