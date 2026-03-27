@@ -366,8 +366,8 @@ export default function App() {
               <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl"> referrerPolicy="no-referrer" />
                 </div>
                 <div className="space-y-6 max-w-lg">
-                  <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
-                  <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profile.png" referrerPolicy="no-referrer" />
+               <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
+                  <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profile.png" />
                 </div>
                   <h4 className="text-3xl font-notoSerif font-bold">왜 이나윤의 코칭인가 <span className="text-xl opacity-60 ml-2">메타로마인드 대표</span></h4>
                   <p className="text-base opacity-80 leading-relaxed">
@@ -384,7 +384,7 @@ export default function App() {
                   <ul className="text-sm space-y-3 opacity-70">
                     <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 오프라인 타로 아카데미 고문마스터 및 강사</li>
                     <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 타로 아카데미 고문마스터 및 강사</li>
-                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 타로 아카데미 고문마스터 및 강사</li>
+                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 글로벌 AI디지털연구소 연구원</li>
                   </ul>
                 </div>
               </div>
