@@ -422,7 +422,7 @@ export default function App() {
           <div className="max-w-7xl mx-auto px-6">
             <div className="mb-20 text-center flex flex-col items-center">
               <h2 className="text-sm font-bold tracking-[0.3em] uppercase opacity-70 mb-2">Masters of Insight</h2>
-              <h3 className="text-4xl font-notoSerif font-black">교육 전문가 그룹</h3>
+              <h3 className="text-4xl font-notoSerif font-black">왜 이나윤의 코칭인가</h3>
             </div>
             <div className="flex flex-col items-center max-w-4xl mx-auto">
               <div className="flex flex-col md:flex-row gap-12 items-center text-center md:text-left">
@@ -430,7 +430,7 @@ export default function App() {
                   <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profilephoto.png" />
                 </div>
                 <div className="space-y-6 max-w-lg">
-                  <h4 className="text-3xl font-notoSerif font-bold">왜 이나윤의 코칭인가 <span className="text-xl opacity-60 ml-2">메타로마인드 대표</span></h4>
+                  <span className="text-xl opacity-60 ml-2">메타로마인드 대표</span></h4>
                   <p className="text-base opacity-80 leading-relaxed">
                     현 오프라인 타로 아카데미 고문마스터 및 강사로 활동하며, 교육기획·운영 17년의 경험을 바탕으로 대학, 기업, 공공기관 강의와 상담, 온·오프라인 코칭을 꾸준히 이어오고 있습니다. 타로를 단순한 카드 해석이 아니라 사람의 심리와 관계의 흐름을 읽는 도구로 활용해왔고, 기본 이론은 배웠지만 실제 상담과 리딩에서 막히는 분들이 자기만의 해석 기준과 상담 언어를 세울 수 있도록 돕는 데 강점을 가지고 있습니다.
                   </p>
