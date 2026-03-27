@@ -398,8 +398,8 @@ export default function App() {
                   <span className="text-5xl font-notoSerif font-black mb-4 opacity-10 group-hover:opacity-30">
                     01
                   </span>
-                  <h4 className="font-bold mb-2">상담 및 신청</h4>
-                  <p className="text-sm opacity-70">목표에 맞는 커리큘럼 설계</p>
+                  <h4 className="font-bold mb-2">상담 스타일 정립</h4>
+                  <p className="text-sm opacity-70">나에게 맞는 상담 톤과 진행 방식을 정리합니다.</p>
                 </div>
                 <div className="hidden md:block absolute top-1/2 -right-4 translate-y-[-50%] z-20">
                   <ChevronRight className="text-outline-variant w-8 h-8" />
@@ -410,8 +410,8 @@ export default function App() {
                   <span className="text-5xl font-notoSerif font-black mb-4 opacity-10 group-hover:opacity-30">
                     02
                   </span>
-                  <h4 className="font-bold mb-2">이론 마스터</h4>
-                  <p className="text-sm opacity-70">상징과 구조의 핵심 학습</p>
+                  <h4 className="font-bold mb-2">리딩 스타일 점검</h4>
+                  <p className="text-sm opacity-70">내가 카드를 어떤 흐름과 기준으로 읽는지 점검하고 정리합니다.</p>
                 </div>
                 <div className="hidden md:block absolute top-1/2 -right-4 translate-y-[-50%] z-20">
                   <ChevronRight className="text-outline-variant w-8 h-8" />
@@ -422,8 +422,8 @@ export default function App() {
                   <span className="text-5xl font-notoSerif font-black mb-4 opacity-10 group-hover:opacity-30">
                     03
                   </span>
-                  <h4 className="font-bold mb-2">실전 시뮬레이션</h4>
-                  <p className="text-sm opacity-70">1:1 코칭 및 피드백 수행</p>
+                  <h4 className="font-bold mb-2">4원소 성향 체크</h4>
+                  <p className="text-sm opacity-70">내 해석의 강점과 편향을 확인하고 리딩의 균형을 잡습니다.</p>
                 </div>
                 <div className="hidden md:block absolute top-1/2 -right-4 translate-y-[-50%] z-20">
                   <ChevronRight className="text-outline-variant w-8 h-8" />
