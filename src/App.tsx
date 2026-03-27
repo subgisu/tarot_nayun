@@ -354,7 +354,7 @@ export default function App() {
           </div>
         </section>
 
-  {/* Section 7: Instructor Intro */}
+ {/* Section 7: Instructor Intro */}
         <section className="py-32 bg-primary-container text-on-primary-container">
           <div className="max-w-7xl mx-auto px-6">
             <div className="mb-20 text-center flex flex-col items-center">
@@ -363,36 +363,23 @@ export default function App() {
             </div>
             <div className="flex flex-col items-center max-w-4xl mx-auto">
               <div className="flex flex-col md:flex-row gap-12 items-center text-center md:text-left">
-              <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
+                <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
                   <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profile.png" />
                 </div>
                 <div className="space-y-6 max-w-lg">
-               <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
-                  <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profile.png" />
-                </div>
                   <h4 className="text-3xl font-notoSerif font-bold">왜 이나윤의 코칭인가 <span className="text-xl opacity-60 ml-2">메타로마인드 대표</span></h4>
                   <p className="text-base opacity-80 leading-relaxed">
-                    현 오프라인 타로 아카데미 고문마스터 및 강사로 활동하며,
-교육기획·운영 17년의 경험을 바탕으로
-대학, 기업, 공공기관 강의와 상담,
-온·오프라인 코칭을 꾸준히 이어오고 있습니다.
-타로를 단순한 카드 해석이 아니라
-사람의 심리와 관계의 흐름을 읽는 도구로 활용해왔고,
-기본 이론은 배웠지만 실제 상담과 리딩에서 막히는 분들이
-자기만의 해석 기준과 상담 언어를 세울 수 있도록
-돕는 데 강점을 가지고 있습니다.
+                    현 오프라인 타로 아카데미 고문마스터 및 강사로 활동하며, 교육기획·운영 17년의 경험을 바탕으로 대학, 기업, 공공기관 강의와 상담, 온·오프라인 코칭을 꾸준히 이어오고 있습니다. 타로를 단순한 카드 해석이 아니라 사람의 심리와 관계의 흐름을 읽는 도구로 활용해왔고, 기본 이론은 배웠지만 실제 상담과 리딩에서 막히는 분들이 자기만의 해석 기준과 상담 언어를 세울 수 있도록 돕는 데 강점을 가지고 있습니다.
                   </p>
                   <ul className="text-sm space-y-3 opacity-70">
                     <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 오프라인 타로 아카데미 고문마스터 및 강사</li>
                     <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 타로 아카데미 고문마스터 및 강사</li>
-                    <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 글로벌 AI디지털연구소 연구원</li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
         </section>
-
         {/* Section 8: Registration Process */}
         <section className="py-32 bg-background">
           <div className="max-w-7xl mx-auto px-6">
