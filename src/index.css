@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --color-on-tertiary-fixed: #0d1f1a;
+  --color-on-primary-fixed-variant: #324c3e;
+  --color-primary: #173124;
+  --color-surface-variant: #e2e3df;
+  --color-background: #faf9f6;
+  --color-on-error: #ffffff;
+  --color-surface-container-highest: #e2e3df;
+  --color-surface-dim: #dadad7;
+  --color-on-error-container: #93000a;
+  --color-on-primary-container: #98b5a3;
+  --color-on-tertiary: #ffffff;
+  --color-primary-fixed-dim: #b0cdbb;
+  --color-on-secondary: #ffffff;
+  --color-tertiary-fixed-dim: #b7cbc3;
+  --color-on-secondary-fixed-variant: #4c4734;
+  --color-surface-container-lowest: #ffffff;
+  --color-surface: #faf9f6;
+  --color-secondary-fixed: #ebe2c9;
+  --color-on-primary: #ffffff;
+  --color-surface-container-low: #f4f4f0;
+  --color-error-container: #ffdad6;
+  --color-surface-container: #eeeeea;
+  --color-secondary-fixed-dim: #cec6ae;
+  --color-secondary-container: #e8dfc6;
+  --color-on-secondary-container: #68634e;
+  --color-surface-tint: #496455;
+  --color-tertiary: #1d2f29;
+  --color-on-tertiary-container: #9eb2aa;
+  --color-inverse-on-surface: #f1f1ed;
+  --color-on-primary-fixed: #062014;
+  --color-inverse-surface: #2f312f;
+  --color-inverse-primary: #b0cdbb;
+  --color-tertiary-fixed: #d2e7de;
+  --color-surface-container-high: #e8e8e5;
+  --color-on-surface: #1a1c1a;
+  --color-outline-variant: #c2c8c2;
+  --color-secondary: #645e4a;
+  --color-on-tertiary-fixed-variant: #384b44;
+  --color-error: #ba1a1a;
+  --color-on-secondary-fixed: #1f1c0c;
+  --color-outline: #727973;
+  --color-surface-bright: #faf9f6;
+  --color-on-background: #1a1c1a;
+  --color-primary-fixed: #ccead6;
+  --color-tertiary-container: #33453f;
+  --color-primary-container: #2d4739;
+  --color-on-surface-variant: #424844;
+
+  --font-notoSerif: "Noto Serif KR", serif;
+  --font-manrope: "Manrope", sans-serif;
+  --font-headline: "Noto Serif KR", serif;
+  --font-body: "Manrope", sans-serif;
+  --font-label: "Manrope", sans-serif;
+}
+
+@layer base {
+  body {
+    font-family: 'Manrope', 'Noto Serif KR', sans-serif;
+    min-height: max(884px, 100dvh);
+  }
+}
