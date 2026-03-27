@@ -354,11 +354,10 @@ export default function App() {
           </div>
         </section>
 
-        {/* Section 7: Instructor Intro */}
+  {/* Section 7: Instructor Intro */}
         <section className="py-32 bg-primary-container text-on-primary-container">
           <div className="max-w-7xl mx-auto px-6">
-            <div className="mb-20">
-              <div className="mb-20 text-center flex flex-col items-center">
+            <div className="mb-20 text-center flex flex-col items-center">
               <h2 className="text-sm font-bold tracking-[0.3em] uppercase opacity-70 mb-2">Masters of Insight</h2>
               <h3 className="text-4xl font-notoSerif font-black">교육 전문가 그룹</h3>
             </div>
@@ -376,7 +375,7 @@ export default function App() {
                     <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> Architectural Insight 설립자</li>
                     <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 한국 코칭 심리학회 정회원</li>
                     <li className="flex items-center gap-2 justify-center md:justify-start"><span className="w-1 h-1 bg-on-primary-container rounded-full"></span> 비즈니스 전략 인사이트 저자</li>
-                </ul>
+                  </ul>
                 </div>
               </div>
             </div>
