@@ -363,7 +363,8 @@ export default function App() {
             </div>
             <div className="flex flex-col items-center max-w-4xl mx-auto">
               <div className="flex flex-col md:flex-row gap-12 items-center text-center md:text-left">
-              <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl"> referrerPolicy="no-referrer" />
+              <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
+                  <img alt="Master Instructor" className="w-full h-full object-cover" src="/tarot_nayun/images/profile.png" />
                 </div>
                 <div className="space-y-6 max-w-lg">
                <div className="w-64 h-80 rounded-xl overflow-hidden grayscale contrast-125 shrink-0 shadow-2xl">
